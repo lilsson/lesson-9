@@ -1,0 +1,8 @@
+@media (max-width:700px) {
+  .next {
+      display: none;
+  }
+  .burger-icon {
+      display: block;
+  }
+}
