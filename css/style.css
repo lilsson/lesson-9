@@ -43,6 +43,7 @@
     color: #fff;
     font-size: 42px;
     margin-bottom: 15px;
+    font-family: 'Coda Caption', sans-serif;
 }
 .hr{
     display: flex;
@@ -61,6 +62,146 @@
     background-color: #fff;
     display: inline-block;
     margin-right: 15px;
-    text-align: center;
+    vertical-align: middle;
   }
 /* section1 */
+.one-step{
+    max-width: 1088px;
+    width: 100%;
+    display: flex;
+    margin:0 auto ;
+    margin-top: 90px;
+    justify-content: space-around;
+    margin-bottom: 80px;
+    
+
+    
+}
+.section1{
+    max-width: 536px;
+    width: 100%;
+    display: flex;
+    
+    
+    
+}
+
+.boxs2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+.beach2{
+    margin-bottom: 15px;
+}
+.two{
+    font-size: 14px;
+    color: #5863F8;
+    margin-bottom: 5px;
+}
+.rigt{
+    max-width: 444px;
+    width: 100%;
+    margin-top: 127px;
+}
+.our{
+    font-family: 'Coda Caption', sans-serif;
+    margin-bottom: 18px;
+    width: 200px;
+}
+.lorem{
+    font-size: 14px;
+    width: 430px;
+    margin-bottom: 10px;;
+}
+.lorem1{
+    font-size: 14px;
+    width: 430px;
+}
+.blue-box{
+    width: 184px;
+    height: 50px;
+    background-color: #5863F8;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+
+}
+.fa-arrow-right{
+    margin-left: 10px;
+}
+/* section2 */
+.section2{
+    margin: 0 auto;
+    margin-left: 110px;
+    
+}
+.secrest{
+    color: #5863F8;
+    font-size: 14px;
+    margin-bottom: 15px;;
+}
+.explore{
+    font-family: 'Coda Caption', sans-serif;
+    width: 270px;
+    font-size: 20px;
+}
+.conteiner{
+    max-width: 1088px;
+    width: 100%;
+    display: flex;
+    margin:0 auto ;
+    margin-top: 90px;
+    justify-content: space-around;
+    margin-bottom: 80px;
+}
+.left-box{
+    max-width: 500px;
+    width: 100%;
+    height: 190px;
+    background-color: #F8F8F8;
+    display: flex;
+    position: relative;
+    
+
+}
+.colum{
+    margin-top: 37px;
+    margin-left: 12px;
+    
+    
+
+}
+.food{
+    color: #5863F8;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.fish{
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.fresh{
+    color: #B1B1B1;
+    font-size: 12px;
+    width: 150px;
+    margin-bottom: 20px;
+}
+.left-left{
+    width: 65px;
+    height: 50px;
+    background-color:#5863F8;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+    
+    
+    
+}
