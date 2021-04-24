@@ -208,3 +208,29 @@
 .menu{
     margin-top: 20px;
 }
+/* section3 */
+
+
+.photos1{
+    margin-left: 103px;
+    margin-top: 40px;
+}
+.photo12{
+    color: #5863F8;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.hotel{
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 18px;
+    margin-bottom: 10px;
+    width: 280px;
+    margin-bottom: 40px;
+}
+.five{
+    max-width: 1366px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

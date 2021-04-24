@@ -21,3 +21,14 @@
           width: 100%;
       }
     }
+@media (max-width:400px) {
+    .five img {
+        width: 100%;
+    }
+    .section2{
+        flex-wrap: wrap;
+    }
+    .photos1{
+        flex-wrap: wrap;
+    }
+}
