@@ -32,3 +32,19 @@
         flex-wrap: wrap;
     }
 }
+@media (max-width: 780px) {
+    .page2box1,
+    .page2box2,
+    .page2box3{
+        width: 48%;
+    }
+    
+}
+@media (max-width:400px) {
+
+    .page2box1,
+    .page2box2,
+    .page2box3{
+        width: 100%;
+    }
+}

@@ -41,7 +41,7 @@
 }
 .Restaurant{
     color: #fff;
-    font-size: 42px;
+    font-size: 40px;
     margin-bottom: 15px;
     font-family: 'Coda Caption', sans-serif;
 }
@@ -71,7 +71,7 @@
     display: flex;
     margin:0 auto ;
     margin-top: 90px;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-bottom: 80px;
     
 
@@ -134,8 +134,10 @@
 }
 /* section2 */
 .section2{
+    max-width: 1088px;
+    width: 100%;
     margin: 0 auto;
-    margin-left: 110px;
+    
     
 }
 .secrest{
@@ -149,12 +151,12 @@
     font-size: 20px;
 }
 .conteiner{
-    max-width: 1070px;
+    max-width: 1088px;
     width: 100%;
     display: flex;
     margin:0 auto ;
     margin-top: 40px;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
     
     
@@ -188,11 +190,13 @@
 .fresh{
     color: #B1B1B1;
     font-size: 12px;
-    width: 150px;
+    max-width: 150px;
+    width: 100%;
     margin-bottom: 20px;
 }
 .left-left{
-    width: 65px;
+    max-width: 65px;
+    width: 100%;
     height: 50px;
     background-color:#5863F8;
     color: #fff;
@@ -212,7 +216,9 @@
 
 
 .photos1{
-    margin-left: 103px;
+    max-width: 1088px;
+    width: 100%;
+    margin: 0 auto;
     margin-top: 40px;
 }
 .photo12{
@@ -249,12 +255,14 @@
 .footer-line1{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     margin-bottom: 50px;
     
 }
 .footer-line2{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .mariam{
     color: #5863F8;
@@ -327,11 +335,90 @@
     display: flex;
 }
 .icone-footer123 i{
-    color: blue;
+    color: #5863F8;
     margin-right: 10px;
+    margin-bottom: 10px;
 }
 .info2{
     margin-bottom: 20px;
     font-family: 'Coda Caption', sans-serif;
 
+}
+.page003{
+    color: #fff;
+}
+.active{
+    color: #5863F8;
+}
+/* page2 */
+.page2container{
+    max-width: 1088px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 90px;
+}
+.page2h4{
+    color: #5863F8;
+    margin-bottom: 15px;
+}
+.page2text{
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 42px;
+    max-width: 500px;
+    width: 100%;
+}
+
+.page2icons i {
+    background-color: #5863F8;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+
+}
+.page2icons{
+    
+    max-width: 1088px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-bottom: 90px;
+
+}
+.page2icons p{
+    color: #B1B1B1;
+    font-size: 12px;
+    margin-bottom: 5px;
+    
+}
+.page2lo{
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.and{
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 42px;
+    max-width: 600px;
+    width: 100%;
+}
+.page2map{
+    max-width: 1088px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.maps{
+    width: 100%;
+    height: 300px;
 }
